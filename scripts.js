@@ -1,1 +1,2 @@
 função !
+  variavel texro textp
